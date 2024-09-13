@@ -29,14 +29,14 @@ const Hero = () => {
             <div className="flex flex-col items-center">
               <Badge containerStyles="hidden xl:flex xl:w-[180px] xl:h-[180px]" />
               <h1 className="h1 text-white">
-                <span className="text-accent">Coffe</span> & Joy
+                <span className="text-accent">Café </span> & joie
               </h1>
             </div>
             <Separator />
             <p className="lead font-light max-w-[300px] md:max-w-[430px] xl:max-w-[560px]">
-              Experience the joy of exceptional coffee in our cozy space, where every cup is crafted with passion and warmth
+              Découvrez la joie d'un café exceptionnel dans notre espace confortable, où chaque tasse est préparée avec passion et chaleur
             </p>
-            <button className="btn">Our menu</button>
+            <button className="btn">Notre carte</button>
           </div>
         </div>
     </section>
