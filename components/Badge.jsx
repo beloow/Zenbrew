@@ -1,9 +1,9 @@
-import React from "react";
+import Image from "next/image"
 
-const Separator = () => {
+const Separator = ({containerStyles}) => {
   return (
-    <div>
-      Badge
+    <div className={`relative ${containerStyles}`}>
+      <Image src="/assets/badge.svg" fill alt="" className="object-contain" />
     </div>
   );
 };
