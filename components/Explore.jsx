@@ -41,7 +41,7 @@ const Explore = () => {
                         <Image 
                             src="/assets/explore/cup.png" 
                             fill 
-                            alt="Cup of coffe" 
+                            alt="Cupofcoffe" 
                             className="object-cover"
                             quality={100}
                             priority
