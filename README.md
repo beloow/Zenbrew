@@ -136,7 +136,7 @@ Ryan QUEVA - [Linkedin](https://www.linkedin.com/in/ryan-queva) - Contact@ryanqu
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[Tailwindcss.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=tailwindcss&logoColor=white
+[Tailwindcss.com]: https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white
 [Tailwindcss-url]: https://tailwindcss.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
