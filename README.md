@@ -68,8 +68,6 @@ Découvrez les saveurs riches et crémeuses de nos diverses sélections de latt�
 <!-- ROADMAP -->
 ## Roadmap
 
-#### Part 1 | Mobile Website :
-
 - [x] Decouverte de Next & React
 - [x] Setup du projet
 - [x] Section Hero
