@@ -59,8 +59,8 @@ Découvrez les saveurs riches et crémeuses de nos diverses sélections de latt�
 * ![HTML5][html5.com]
 * ![CSS3][css3.com]
 * ![JavaScript][javascript.com]
-* ![Next.js][Next-url]
-* ![React.js][React-url]
+* [![Next][Next-js]][Next-url]
+* [![React.][React-js]][React-url]
 * [![GitHub][github.com]][github-url]
 
 
